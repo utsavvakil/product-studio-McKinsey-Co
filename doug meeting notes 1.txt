@@ -1,0 +1,80 @@
+US History - UVA
+
+Programmer
+
+GE - plastics
+
+6 years at McKinsey
+
+3 or 4 jobs exploring
+
+Chef for 2 years
+
+worked for small group - SNL securities/SNL financial - now huge
+
+
+Analytics - McKinsey
+
+different analytical techniques - regression/machine learning
+workbeyond tool: analytical platform - smart feature selection
+
+
+shift into business first analytics - how do we create value? "hard part"
+
+example problems:
+
+1. Helping orgs redefine how they define a risk score?  -do I want to write this policy?
+
+2. How can we do it differently?
+
+3. The process is nasty. Back and forth is difficult, product is intangible. Not personal
+
+4. Disability, Auto, especially.
+
+5. Increase fluidity and make it nicer?
+
+6. Model - take money, invest, try to make more than they'll pay out
+
+7. Learn about ratios in the industry
+
+Challenge goals:
+
+Broaden horizon to introduce tech
+
+Frontend - sales & distribution - ppl understand and want
+Lots of benefits - security and safety
+Poorly understood value prop, even for young people who pay very little to get it (life)
+They are collecting tons of info through questionares - can we transform this with tech?
+Snapshot collects tons of information
+Health are gravitating to this too, but what do you do with it?
+Health conversations - sales, one adjustment, claim - but can we do a better job of monitoring and predicting health outcomes? One has 11 years of wellness information and are doing nothing with it!
+
+Kano analysis - consumer needs adapt quickly - optional becomes must-be quickly
+constant feature growth (AC, antilock brakes, seatbelts, etc)
+This is hitting the insurance industry - people now expect people to do something when they give up information
+
+Mid - Pricing and Underwriting - process collected data about person to put price on it
+
+3: Claims and servicing - keep them happy and service legitimate claims
+metrics: efficiency (expense) and effectiveness ( paying appropriate claims) NOT paying out less or denying, just paying the right amount
+
+States have different rules on claim expirations
+
+
+Wearables -- maybe dissuade you, think about Health Science
+wearables are interesting but challenging, people don't use them properly
+get a blood sample instead? The info in blood is rich - molecular age - instead devise a system where one blood sample/qr turns into a lifetime of health security
+
+Insurance for data privacy -- keep digging on this, real problem. Two carriers are exploring it. Take it to personal level? But how do you price the risk? OR assess risk levels? Need to better define exactly what we want to do here. Don't get to caught on a technical solution and miss bigger problems
+
+Test it with the professors -- removed from the pure sense of the challenge.
+
+Look for a solution and shape it into something that's a viable pitch
+
+
+We must communicate the value prop in 30 seconds!
+
+McKinsey Approach:
+1. Nail down the problem statement
+2. Detailed activity, workstreams, milestone, objectives calendar
+3. Do
